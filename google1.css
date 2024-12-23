@@ -1,0 +1,8 @@
+body{
+    background-image:url("https://t3.ftcdn.net/jpg/03/00/38/90/240_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg");
+    background-size:cover;
+    
+}
+input[type=submit]{
+    color:red;
+}

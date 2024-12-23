@@ -1,0 +1,8 @@
+input[type=text]{
+    color:yellowgreen;
+    font-size:24px;
+}
+input[type=submit]{
+    color:blueviolet;
+    font-size:18px;
+}
